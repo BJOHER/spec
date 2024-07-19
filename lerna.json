@@ -5,7 +5,7 @@
   "command": {
     "publish": {
       "npmClient": "npm",
-      "message": "chrome: publish %s",
+      "message": "chore(release): publish %s",
       "registry": "https://registry.npmjs.org/"
     },
     "packages": ["packages/*"]
